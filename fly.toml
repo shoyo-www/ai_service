@@ -1,0 +1,6 @@
+app = "lume-ai"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
